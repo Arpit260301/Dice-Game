@@ -1,0 +1,52 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.btn{
+  margin: 5% 25%;
+}
+
+body {
+  background-color: #1b1a17;
+}
+
+h1 {
+  margin: 0px 30px 30px;
+  text-shadow: 5px 0 #232931;
+  font-family: 'Reggae One', cursive;
+  font-size: 4rem;
+  color: #f0a500;
+}
+
+h3{
+  margin: 30px;
+  font-family: 'Reggae One', cursive;
+  font-size: 3rem;
+  color: #f0a500;
+
+}
+
+h2{
+  margin: 10px;
+  font-family: 'Reggae One', cursive;
+  font-size: 2rem;
+  color: #0a1931;
+}
+
+p {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+  color: #4aa96c;
+}
+
+img {
+  width: 70%;
+}
